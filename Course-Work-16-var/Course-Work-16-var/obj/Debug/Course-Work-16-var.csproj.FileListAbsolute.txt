@@ -1,0 +1,116 @@
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe.config
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Window1.baml
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Window1.g.cs
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var_MarkupCompile.cache
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.g.resources
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course_Work_16_var.Properties.Resources.resources
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\курсовая ооп\Course-Work-16-var\Course-Work-16-var\bin\Debug\DS-DIGIB.TTF
+G:\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe.config
+G:\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.exe
+G:\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe.config
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Window1.baml
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Window1.g.cs
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var_MarkupCompile.cache
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.g.resources
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course_Work_16_var.Properties.Resources.resources
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\LAST LABS WITH COURSE\курсовая ооп\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe.config
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var_MarkupCompile.cache
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.g.resources
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course_Work_16_var.Properties.Resources.resources
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\Set_Time_Dialog.baml
+C:\Users\Максим\Desktop\cl\Course-Work-16-var\Course-Work-16-var\obj\Debug\Set_Time_Dialog.g.cs
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe.config
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Set_Time_Dialog.baml
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Set_Time_Dialog.g.cs
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var_MarkupCompile.cache
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.g.resources
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course_Work_16_var.Properties.Resources.resources
+C:\Users\Максим\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csproj.GenerateResource.Cache
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe.config
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Interop.WMPLib.dll
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csproj.ResolveComReference.cache
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.exe
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.pdb
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csprojResolveAssemblyReference.cache
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.baml
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Set_Time_Dialog.baml
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.g.cs
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Set_Time_Dialog.g.cs
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\App.g.cs
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var_MarkupCompile.cache
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.g.resources
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course_Work_16_var.Properties.Resources.resources
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csproj.GenerateResource.Cache
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe
+C:\Users\sp113-18\Desktop\cl-alpha-4\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe.config
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Interop.WMPLib.dll
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csproj.ResolveComReference.cache
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Set_Time_Dialog.baml
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Set_Time_Dialog.g.cs
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var_MarkupCompile.cache
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.g.resources
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course_Work_16_var.Properties.Resources.resources
+C:\Users\Максим\Desktop\cl-alpha-5\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe.config
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\Interop.WMPLib.dll
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csproj.ResolveComReference.cache
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.exe
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\bin\Debug\Course-Work-16-var.pdb
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var_MarkupCompile.cache
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.g.resources
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course_Work_16_var.Properties.Resources.resources
+C:\Users\Максим\Desktop\cl-beta-10\Course-Work-16-var\Course-Work-16-var\obj\Debug\Course-Work-16-var.csproj.GenerateResource.Cache

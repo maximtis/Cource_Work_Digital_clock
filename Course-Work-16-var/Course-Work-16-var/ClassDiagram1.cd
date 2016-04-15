@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Course_Work_16_var.Allarm">
+    <Position X="9.25" Y="1.5" Width="2" />
+    <AssociationLine Name="MainWindow" Type="Course_Work_16_var.MainWindow">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.06" Y="0.485" Height="0.182" Width="0.901" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>CEAAAAQAMAAAwCQICECEYgAAAAAIABBAAAAAABAAgAA=</HashCode>
+      <FileName>Allarm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MainWindow" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Course_Work_16_var.RunTimeClock">
+    <Position X="12" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAACCMCgAEIAIAAAAECCJAIAAiABAEAAA=</HashCode>
+      <FileName>RunTimeClock.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MainWindow" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Course_Work_16_var.MainWindow">
+    <Position X="4.25" Y="3" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EEJgAggMAqAgAACIAAQE7EEkAAACgIIBAqCAQBAMsGA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work_16_var.Radio">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAIAAASQACqCEAAAIAAAAAAAIqAIgAAAACAA=</HashCode>
+      <FileName>Radio.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MainWindow" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Course_Work_16_var.Clock">
+    <Position X="14" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAACAICAAAIAAAAAAAAABAIAAAABAAAAA=</HashCode>
+      <FileName>Clock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

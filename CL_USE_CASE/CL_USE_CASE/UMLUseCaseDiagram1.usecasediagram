@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="c27cb55b-edd0-4b8a-8a2d-9f227651cd58" name="UMLUseCaseDiagram1" linkedPackageId="2a5803e6-aa25-47c8-80c1-3cb09700c0eb" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="01253f7f-c287-441d-b258-a7d34324d2c1" name="User" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="041dcab0-f3f2-4d95-91db-4780776db378" />
+        <targetEnds>
+          <association Id="2f1ba572-615c-42bd-a969-28971b7dbe98" isDerived="false" sourceEndRoleName="Пользовател" targetEndRoleName="Allarm" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="99aa676b-e6be-4f79-abfc-7b7d91de4489" LastKnownName="On Allarm" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="b70f4c5b-fa11-4278-8b74-668eab9afac3" name="Пользовател" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="e4e39485-6092-4ae7-9069-d726de8814e2" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="8e89445d-06ed-415c-89b5-cffa7741aba3" name="Allarm" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="a1f00085-4b2b-4a8c-bd5a-fad6f577c04e" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="9a677e06-cf55-43c2-8c73-8bd31120c84f" />
+          </association>
+          <association Id="e31e59aa-6e67-4161-9568-2147911f64d5" isDerived="false" sourceEndRoleName="Пользовател" targetEndRoleName="Radio" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="b06d69ad-1650-46a8-92ed-088ec6592b58" LastKnownName="On Radio" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="7bd12e0b-4289-41aa-9210-5fb451a8f73e" name="Пользовател" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="13da00a7-2cd5-4a4e-8e00-d1d539320ebc" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="e0a520b2-acf2-46e4-9a98-e08a48631128" name="Radio" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="29a5c17d-d8cd-4671-b5d4-9f28d652edfa" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="58a147b4-76d2-4205-a217-d367768fd3ef" />
+          </association>
+          <association Id="aeac0665-976f-4e9c-8da5-c8f15cf1c5d8" isDerived="false" sourceEndRoleName="Пользовател" targetEndRoleName="Timer" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="04035dbe-39b8-46be-b672-9054e0635d46" LastKnownName="On Timer" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a6704829-bac7-4a5e-9a9e-76b71c3bdceb" name="Пользовател" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="1ff8af6c-4b93-412e-9d57-12896d12804a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="cd6599a5-d2aa-4f2e-9133-bcea7ec595b9" name="Timer" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="d2c57844-c3e0-42f4-b61a-9f4be92d8526" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="e9ce730d-a3e9-4b50-8ba0-12300579aeb1" />
+          </association>
+          <association Id="eea795c8-a2f2-4600-8b98-1588d0240cd1" isDerived="false" sourceEndRoleName="Пользовател" targetEndRoleName="Standby" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="bb053629-ab68-4d98-b7f6-38ff22473a80" LastKnownName="On Standby" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="ecf924a5-4e40-4bf3-9c0f-a27c4150093f" name="Пользовател" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="224476d9-4994-4afc-bcad-934106b58a17" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="9cc776f0-a867-4534-a26f-a415aa9b399b" name="Standby" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="2bdc6ab1-4b2c-40a4-8659-199e54332ab7" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="950a3816-b501-4619-b602-3266e4e8d415" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="b06d69ad-1650-46a8-92ed-088ec6592b58" name="On Radio" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="e84d4be9-35f6-4ae4-9fc4-e4444e8344c9" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="99aa676b-e6be-4f79-abfc-7b7d91de4489" name="On Allarm" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="cc334b87-b8b9-4ad9-aa44-595be20bb1a1" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="04035dbe-39b8-46be-b672-9054e0635d46" name="On Timer" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="154adb7e-3b10-4ea9-948c-171f8d59c4c5" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="bb053629-ab68-4d98-b7f6-38ff22473a80" name="On Standby" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="6b18aeb2-2408-4525-8c7f-c9e51a0ce089" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="8ff7df22-d42c-4332-9022-8815506f007b" name="Setting Time" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="59d16e89-e970-4059-8f3c-cabde4ac4f62" />
+        <extendedCases>
+          <extend Id="6bc1a2a9-4378-4a02-aea1-78c302d27338">
+            <useCaseMoniker Id="bb053629-ab68-4d98-b7f6-38ff22473a80" LastKnownName="On Standby" />
+            <elementDefinition Id="edf225ca-2df4-4f2d-9fa9-7025e9541e28" />
+          </extend>
+          <extend Id="73f65982-09af-4813-92c5-bab80ddf5609">
+            <useCaseMoniker Id="04035dbe-39b8-46be-b672-9054e0635d46" LastKnownName="On Timer" />
+            <elementDefinition Id="770988c0-ec49-419a-8bc3-232a98224b46" />
+          </extend>
+          <extend Id="64613e84-5df3-4833-afaa-e0292038a3fd">
+            <useCaseMoniker Id="b06d69ad-1650-46a8-92ed-088ec6592b58" LastKnownName="On Radio" />
+            <elementDefinition Id="96750b95-54e4-4c53-a21c-bd382f344cc7" />
+          </extend>
+          <extend Id="ccb172fb-40e3-49fd-b9f1-b30fe9400d14">
+            <useCaseMoniker Id="99aa676b-e6be-4f79-abfc-7b7d91de4489" LastKnownName="On Allarm" />
+            <elementDefinition Id="8055948b-8494-45ac-b051-167ec081e806" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="70c0029d-1588-435e-b146-27fc4c5ab081" name="Setting Radio" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="46eaf6a9-d580-4bfc-8e3d-ec86ec3b4001" />
+        <extendedCases>
+          <extend Id="f594defa-5969-4749-ad51-46514c0d7fe8">
+            <useCaseMoniker Id="b06d69ad-1650-46a8-92ed-088ec6592b58" LastKnownName="On Radio" />
+            <elementDefinition Id="6e8fb686-6eca-4313-8284-6d5456aaf24a" />
+          </extend>
+          <extend Id="ba37eb6c-db0d-402c-8670-b65c4a2dd8b4">
+            <useCaseMoniker Id="04035dbe-39b8-46be-b672-9054e0635d46" LastKnownName="On Timer" />
+            <elementDefinition Id="e100b95d-a4b4-47b4-8232-90d89b365dc5" />
+          </extend>
+          <extend Id="b2c4e7c2-c876-4c5d-b9b0-9b44f160b2b9">
+            <useCaseMoniker Id="bb053629-ab68-4d98-b7f6-38ff22473a80" LastKnownName="On Standby" />
+            <elementDefinition Id="01f788f9-3569-4b03-840d-129a2e7e8077" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="e20f149f-e1f3-4293-9b8e-6dc4d8a4db5e" name="Setting Allarm" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="b90a461a-340f-470e-93d3-e94475662bf0" />
+        <extendedCases>
+          <extend Id="432e5821-164c-4f3c-a988-745a15e85685">
+            <useCaseMoniker Id="99aa676b-e6be-4f79-abfc-7b7d91de4489" LastKnownName="On Allarm" />
+            <elementDefinition Id="3da25bd0-a7e7-4204-bdd8-2bb8173ecdb1" />
+          </extend>
+          <extend Id="a2d3a586-1f2d-4251-901d-0884ded2150a">
+            <useCaseMoniker Id="b06d69ad-1650-46a8-92ed-088ec6592b58" LastKnownName="On Radio" />
+            <elementDefinition Id="c7fe1314-4461-4a75-84f7-5379195d9767" />
+          </extend>
+          <extend Id="5920bb50-0afb-4a21-bc9e-86fe7fbc2600">
+            <useCaseMoniker Id="04035dbe-39b8-46be-b672-9054e0635d46" LastKnownName="On Timer" />
+            <elementDefinition Id="cfae1b9b-8c64-4cba-96b4-fde7d121d299" />
+          </extend>
+          <extend Id="199d812d-ad4d-4430-abb3-6f945fe41aa9">
+            <useCaseMoniker Id="bb053629-ab68-4d98-b7f6-38ff22473a80" LastKnownName="On Standby" />
+            <elementDefinition Id="3e3ea71f-e067-48f2-80e9-2de9bebe29f4" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="eeceb053-be62-4c50-8624-87d06e563dd2" name="Reset" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="681082c0-baef-4d7e-8163-8d51fca8c9a5" />
+        <extendedCases>
+          <extend Id="23654891-7cc8-499f-88bc-71ace98309f1">
+            <useCaseMoniker Id="99aa676b-e6be-4f79-abfc-7b7d91de4489" LastKnownName="On Allarm" />
+            <elementDefinition Id="a5b04240-98e1-4116-a04f-ffca8739986a" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="2a5803e6-aa25-47c8-80c1-3cb09700c0eb" name="CL_USE_CASE">
+    <elementDefinition Id="73f21fe3-a8ef-4e1f-97f0-7ac8c33e3dfc" />
+    <profileInstances>
+      <packageHasProfileInstances Id="93bef862-158c-41e1-93d9-6ff1b44a95a1">
+        <profileInstance Id="484f6546-76a0-42b6-9f98-fd275398c00e" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="913b61a9-64aa-44b1-8ac1-9148f3e7432f">
+        <profileInstance Id="6e025f33-8b9a-4aab-aaf9-f466068e0ee3" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</useCaseModelRoot>

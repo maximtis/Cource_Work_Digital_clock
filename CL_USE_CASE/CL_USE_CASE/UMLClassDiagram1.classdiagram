@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm10="http://schemas.microsoft.com/dsltools/UseCaseModel" dslVersion="1.0.0.0" Id="42cdc0d6-f39c-4b53-a75c-4298bac8f6b9" name="UMLClassDiagram1" linkedPackageId="12f8abdb-b352-4b62-9f4f-05eb3ccc113b" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="e0fd5bde-8711-4b76-b034-ed43db69e14c">
+      <profileInstance Id="8160e8c9-01a9-4817-8593-5b5453b7b247" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="cf241c6b-bca4-41e7-a797-065ba1b05a21">
+      <profileInstance Id="10629397-ff34-462e-9b7c-e88768ae3351" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="6a95005f-16cb-4f2e-8741-63eabe7de52a" name="Allarm" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="f67d214a-2281-4f69-8fca-d7b77b23a9de" />
+        <targetEnds>
+          <association Id="a9d69067-cb6a-41cd-b0e5-2f6c9aacb462" isDerived="false" sourceEndRoleName="Allarm" targetEndRoleName="MainWindow" isLeaf="false" isAbstract="false">
+            <classMoniker Id="a3aa475e-4692-42fd-aee7-d99b780ceeec" LastKnownName="MainWindow" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="2e3bea53-956d-4158-8ffe-fb6db8090f2f" name="Allarm" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="2b8ff322-fabf-422a-83b8-9df6fcda9994" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="bb83a7b2-f595-4e88-bcf0-5d2e41e31c7a" name="MainWindow" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="6b422307-6557-4788-b860-e4c5cf4ed6d9" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="dcab123d-558c-40cb-ab0e-a50b83747a3b" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="4a224ba3-b6c0-4d5a-a514-9feae9df1df7" name="activate" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="6e2386f1-cbf5-400b-a24d-ed6504d46cff" />
+          </property>
+          <property Id="f5ae0700-1b48-4928-b295-a12f165b8d0e" name="Number" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="4df76baf-fa2b-4a6d-baba-31435fcc33f3" />
+          </property>
+          <property Id="642af594-4d10-4683-9af8-58903f03aa20" name="AllarmTime" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="b1434d75-8149-4e1e-87b5-5289e254555e" />
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="63d2adac-af19-4d90-be78-fd0d4ec0c124" name="SortByTheme" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="df564dbc-ded8-401d-b455-e5623b309a91" />
+          </operation>
+          <operation Id="593d3b9d-a353-4866-b9f3-e0e73c4b599c" name="CompareTo" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="58d5bc5a-fc0a-4106-b7df-271ff0615f17" />
+          </operation>
+          <operation Id="aa33aee9-de8e-490b-b56a-aeb7de7dcec8" name="Hour_Next" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="573bfedc-4ccd-42ed-a426-741bf3dabc15" />
+          </operation>
+          <operation Id="ff5df722-4f23-42cb-a842-899f1799a6ff" name="DeepCopy" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="ebb68d6c-513f-4c00-a793-8b882b3946f5" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="25af387d-c58e-4aa5-9e48-579b71a26a06" name="Radio" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="b03ff823-38fe-46d3-9a55-1057ef2df044" />
+        <targetEnds>
+          <association Id="485c27fb-90d7-425f-a27e-41be3b604794" isDerived="false" sourceEndRoleName="Radio" targetEndRoleName="MainWindow" isLeaf="false" isAbstract="false">
+            <classMoniker Id="a3aa475e-4692-42fd-aee7-d99b780ceeec" LastKnownName="MainWindow" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="6669aecb-a6cb-4b65-a7c1-20af1399307b" name="Radio" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="18461080-fcd5-4a38-8009-3f7b1761c121" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="04d1228a-7283-4ff2-ab97-c8c64723ffb3" name="MainWindow" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="9cec53b6-b804-4574-96e4-da783380f130" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="b13868ed-ab77-47cf-ac2b-0e7650661411" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="0274659f-4d3b-4533-89de-9139f3050fa4" name="StationList" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="0b78a24d-be7d-45e5-9f51-238a4643103a" />
+          </property>
+          <property Id="86ac7144-4b81-472d-890f-456fc56e000d" name="TimerAllarm" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="beaaa99f-f8dc-4932-b9ef-fccfc05aaf93" />
+          </property>
+          <property Id="883a9a8c-2620-498b-9183-bbf38e87ced1" name="Volume" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="ee3cc89f-7d7a-4e71-8baa-da95424dbd0c" />
+          </property>
+          <property Id="c1bce3e5-da07-4c4f-8904-a06aa3050ec8" name="current_station" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="58852175-4d8d-4316-8a62-5fde3fc5f93b" />
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="d9cd27a1-1660-40c1-b7c0-c4b7d633779a" name="Play" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="005acf1b-85a4-49a4-b04a-12de8807fb66" />
+          </operation>
+          <operation Id="e0be8401-d74c-4f13-8d01-688502d068b3" name="Stop" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="7d9709be-34fc-4117-8766-2a6d1efa54f9" />
+          </operation>
+          <operation Id="6d914ecd-6277-4210-898d-56666fe44609" name="PlaySearchVoice" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="dc36c9ab-3efb-454f-bce6-9327c58148ed" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="a3aa475e-4692-42fd-aee7-d99b780ceeec" name="MainWindow" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="2d6df27a-e997-4d8d-9148-6da79455daf4" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="cf11c236-0a93-405d-80a4-9787d791f759" name="RunTimeClock" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="0d2d395a-e7bd-441e-a46b-05a56dac79b1" />
+        <generalsInternal>
+          <generalization Id="b66b4fd1-70f7-4142-aecb-301043740778" isSubstitutable="false">
+            <classMoniker Id="6a95005f-16cb-4f2e-8741-63eabe7de52a" LastKnownName="Allarm" />
+            <elementDefinition Id="eff745de-9db2-40e1-9e3b-4b839099d6c8" />
+          </generalization>
+        </generalsInternal>
+        <targetEnds>
+          <association Id="f10a8fdb-56c6-421c-b90a-1bca8ec24c08" isDerived="false" sourceEndRoleName="RunTimeClock" targetEndRoleName="MainWindow" isLeaf="false" isAbstract="false">
+            <classMoniker Id="a3aa475e-4692-42fd-aee7-d99b780ceeec" LastKnownName="MainWindow" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="234f1d8c-94d2-4050-a00a-20698deb542c" name="RunTimeClock" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="c88db1f8-065b-4bbe-a87a-eb68bde5cc4f" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="e3bba13e-342c-4e43-b7bd-0891661b50d8" name="MainWindow" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="ab3a893c-4816-48a4-ae73-656ad43d9b66" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="81e425f6-d97c-41e7-8f21-086aa266a2c5" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="8b9e2bd5-4caf-42d0-a6ee-58ab4e44ae3a" name="hour" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="b1cb3b8a-2a78-44ac-b0a6-c96418d8d21d" />
+          </property>
+          <property Id="9c714dcc-0273-494a-bf94-82a5621c466d" name="minute" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="7a3381c3-1419-4e90-afa3-8577c3454768" />
+          </property>
+          <property Id="43e0f69a-3ccf-4ff6-ad5b-e110ccc5983f" name="second" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="dcc38670-b04d-48fa-96ee-e9148fcf5ce1" />
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="4f102acc-2511-4d99-858a-5f471c6cf6b9" name="Hour_Next" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="3c69d794-84c6-427a-a5c9-a09e6fb8534a" />
+          </operation>
+          <operation Id="9c35a505-4fae-4057-95b5-26c10bbf2827" name="Minute_Next" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="37c2e22f-ca31-41f2-b1e6-6722e5aae65e" />
+          </operation>
+          <operation Id="9d6d41bf-dd86-4272-a3c4-a08e183eca24" name="Second_Next" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="a8bae4d4-f29f-4193-b859-760106063d23" />
+          </operation>
+          <operation Id="2dee3283-1cb4-4558-bbf1-29650be26a6f" name="SetNowTime" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="c4452956-b2f2-47cd-b0fa-4b9f84743543" />
+          </operation>
+          <operation Id="e1bc6d6a-e9b7-4e1b-8bd2-76a5c13949ed" name="Start" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="f7d9650c-6e98-44ff-8169-5c1ed279e600" />
+          </operation>
+          <operation Id="fd457279-e2ec-4cb0-bea9-94eaa166505a" name="Timer_Ticks" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="6bbe338a-97e0-4701-9dac-b922b6527d9c" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="12f8abdb-b352-4b62-9f4f-05eb3ccc113b" name="CL_USE_CASE">
+    <elementDefinition Id="73f21fe3-a8ef-4e1f-97f0-7ac8c33e3dfc" />
+  </package>
+</logicalClassDesignerModel>
